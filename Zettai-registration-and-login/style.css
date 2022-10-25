@@ -1,0 +1,53 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+            background: linear-gradient(#2f80ed, #00f, #f00);
+            background-repeat: no-repeat;
+        }
+        td {
+            color: #fff;
+        }
+.con2 {
+    background: linear-gradient(#2f80ed, #00f, #f00);
+    margin: auto;
+    text-align: center;
+    width: 310px;
+    padding: 20px;
+    border-radius: 15px;
+}
+#icon2 {
+    padding:20px 0;
+    
+}
+.user-rate {
+    padding-top: 20px;
+}
+#user-rate {
+    border-radius: 10pc;
+    padding: 5px;
+    background: linear-gradient(#2f80ed, #00f, #f00);
+    color: orange;
+}
+.thanks h1 {
+    color: #fff;
+}
+.thanks p {
+    color:  hsl(217, 12%, 63%);
+}
+img {
+    width: 200px;
+}
+.con {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  background: linear-gradient(#2f80ed, #00f, #f00);
+  margin: auto;
+  border-radius: 10px;
+}
+input, select {
+  width: 100%;
+  border-radius: 4pc;
+}
