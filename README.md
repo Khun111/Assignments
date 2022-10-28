@@ -8,13 +8,11 @@ We were given a task to create a *registration* page, a *login* page and a *succ
 The task here was to create our portfolio site. Even though there was no requirement to make it responsive, structuring the layout and positioning wasn't a walk in the park either.
 Honestly there was hardly enough time to acheive all these in plus other the other form validation task in just one week. Plus I had to prepare for the backend tasks too, since I chose Full-Stack.
 ## Week 4
-Responsiveness and Musicapp
-### Responsiveness
+Responsive Layouts
+### Responsive Layouts
 I tag this as one subheading but it actually consists of two different task. The aim here was to apply our knowledge of responsive web layouts, while effectively making use of flexboxes, grids and media queries.
 For the first  we had apply our knowlege of flexboxes to create a 3-card column and the site had to be responsive. Besides making it viewable on all screens, the quality of the design also had to be protected mo matter the screen size
 For the second task, we had to replicate a design.We had to build to design and it has to be pixel-perfeect. Desciding that a grid is what we needed to acheive this is one important part of the task but that wasn't enough. It seemed difficult at first but the trick was to get over your fear and just start.
-### Musicapp
-Here we had create a django project and django app. This was my first experience with django tho.
 ## Week 5
-For frontend, the task was to push all tasks from the third week to date. And also creating this beautiful README lol.
-For the backend, we took our django app a step further by creating models and implementing CRUD; Creating, Reading, Updating and Deleting data.
+Here, the task was to push all tasks from the third week till date. And also creating this beautiful README lol.
+It is important to mention that we had to create a separate branch for each week so altogether we had to have at least three branches besides main. This task made me more acquainted with using the git command line interface and I'm grateful for that. There was a slight confusion for Full-Stack track students on whether to push only our frontend tasks or to include the backend too. It was later decided that since this was a frontend task, we should push only the frontend tasks of these weeks. Overall, the experience was an exciting one
