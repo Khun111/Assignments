@@ -10,7 +10,7 @@ Honestly there was hardly enough time to acheive all these in plus other the oth
 ## Week 4
 Responsive Layouts
 ### Responsive Layouts
-I tag this as one subheading but it actually consists of two different task. The aim here was to apply our knowledge of responsive web layouts, while effectively making use of flexboxes, grids and media queries.
+I tag this as one subheading but it actually consists of two different tasks. The aim here was to apply our knowledge of responsive web layouts, while effectively making use of flexboxes, grids and media queries.
 For the first  we had apply our knowlege of flexboxes to create a 3-card column and the site had to be responsive. Besides making it viewable on all screens, the quality of the design also had to be protected mo matter the screen size
 For the second task, we had to replicate a design.We had to build to design and it has to be pixel-perfeect. Desciding that a grid is what we needed to acheive this is one important part of the task but that wasn't enough. It seemed difficult at first but the trick was to get over your fear and just start.
 ## Week 5
